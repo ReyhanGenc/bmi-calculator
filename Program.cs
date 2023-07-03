@@ -14,7 +14,7 @@ namespace kitle_indeksi
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new window());
+            Application.Run(new Window());
         }
     }
 }
